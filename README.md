@@ -1,6 +1,6 @@
 # Family account
 
-repos: https://github.com/Skrillite/familly_account
+repos: https://github.com/Persona99/familly_account
 
 ## Задача
 
